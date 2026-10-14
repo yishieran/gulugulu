@@ -5,6 +5,7 @@
 // @description  性格+性别+发色+瞳色
 // @license      MIT
 // @sealVersion  1.5.1-dev
+// @homepageURL  https://github.com/yishieran
 // ==/UserScript==
 
 let ext = seal.ext.find('randomCard');
